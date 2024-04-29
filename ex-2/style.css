@@ -1,1 +1,29 @@
-/* Start coding here */
+* {
+  padding: 0;
+  margin: 0;
+}
+
+span {
+  display: flex;
+  justify-content: center;
+  font-size: 72px;
+  padding: 30px;
+}
+
+.box1 {
+  width: 100%;
+  height: auto;
+  background-color: khaki;
+}
+.box2 {
+  border: 16px solid lightgrey;
+  height: auto;
+}
+.box3 {
+  border: 16px solid black;
+  height: auto;
+}
+.box4 {
+  border: 24px solid crimson;
+  height: 100vh;
+}
